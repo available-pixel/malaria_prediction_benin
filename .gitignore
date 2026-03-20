@@ -1,12 +1,12 @@
-# Ignore virtual environments
+# Ignore virtual environment
 venv/
 
-# Python cache
+# Ignore your extra Python file
 main.py
+
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
-
-# System files
 .DS_Store
 Thumbs.db
