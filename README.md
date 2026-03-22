@@ -1,16 +1,9 @@
 # 🦟 Malaria Prediction Dashboard (Benin)
 
-## 📄 Published Research
-
-This project is based on a published research proposal:
-
-👉 https://doi.org/10.5281/zenodo.19170416
-
-This publication demonstrates the application of machine learning in predicting malaria cases in Benin using climate data.
-
-## 🌍 Live App
-
-👉 https://malaria-prediction-benin-fadil-ade.streamlit.app/
+## 🔗 Project Links
+- 📄 Research (DOI): https://doi.org/10.5281/zenodo.19170416
+- 🌍 Live App: https://malaria-prediction-benin-fadil-ade.streamlit.app/
+- 💻 Source Code: https://github.com/available-pixel/malaria_prediction_benin
 
 ## 📌 Project Overview
 
@@ -19,6 +12,14 @@ This project predicts malaria cases in Benin using machine learning and climate 
 It demonstrates how **Artificial Intelligence can be applied to public health** to better understand and anticipate disease trends.
 
 ---
+
+## 📄 Published Research
+
+This project is based on a published research proposal:
+
+👉 https://doi.org/10.5281/zenodo.19170416
+
+This publication demonstrates the application of machine learning in predicting malaria cases in Benin using climate data.
 
 ## 📄 Full Research Proposal (PDF)
 
@@ -68,6 +69,17 @@ This project uses:
 
 ---
 
+## 📈 Model Performance
+
+The models were evaluated using standard regression metrics:
+
+- Mean Squared Error (MSE)
+- Root Mean Squared Error (RMSE)
+
+The Random Forest model outperformed Linear Regression, providing more accurate predictions of malaria cases.
+
+These results confirm that machine learning can effectively capture patterns between climate factors and malaria incidence.
+
 ## 📊 How It Works
 
 1. Load datasets (malaria + climate)
@@ -78,6 +90,17 @@ This project uses:
 6. Display results in a Streamlit dashboard
 
 ---
+
+## ⚠️ Limitations
+- Limited dataset size (yearly data only)
+- Missing variables such as humidity, population density, and healthcare access
+- Predictions depend on the accuracy of climate data
+
+## 🚀 Future Improvements
+- Include additional features (humidity, population data)
+- Use more advanced models (e.g., XGBoost, Neural Networks)
+- Expand the model to other African countries
+- Integrate real-time data for live predictions
 
 ## 🛠️ Technologies Used
 
