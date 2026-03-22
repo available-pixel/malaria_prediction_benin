@@ -119,5 +119,5 @@ This project is for educational purposes only and does not provide medical advic
 
 ## 👤 Author
 
-**Fadil ADELABOU**
+**Fadil Owolara ADELABOU**
 Aspiring Data Scientist | AI & Public Health Enthusiast
