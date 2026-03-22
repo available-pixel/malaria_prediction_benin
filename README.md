@@ -1,9 +1,13 @@
 # 🦟 Malaria Prediction Dashboard (Benin)
 
+<div align="center">
+
 ## 🔗 Project Links
-- 📄 Research (DOI): https://doi.org/10.5281/zenodo.19170416
-- 🌍 Live App: https://malaria-prediction-benin-fadil-ade.streamlit.app/
-- 💻 Source Code: https://github.com/available-pixel/malaria_prediction_benin
+- 📄 Research Proposal (DOI): [https://doi.org/10.5281/zenodo.19170416](https://doi.org/10.5281/zenodo.19170416)  
+- 🌍 Live App: [https://malaria-prediction-benin-fadil-ade.streamlit.app/](https://malaria-prediction-benin-fadil-ade.streamlit.app/)  
+- 💻 Source Code: [GitHub Repository](https://github.com/available-pixel/malaria_prediction_benin)  
+
+</div>
 
 ## 📌 Project Overview
 
