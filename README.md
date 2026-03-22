@@ -12,6 +12,12 @@ It demonstrates how **Artificial Intelligence can be applied to public health** 
 
 ---
 
+## 📄 Full Research Proposal (PDF)
+
+The full research proposal for this project is available as a PDF:
+
+[Download PDF](Malaria_Prediction_Benin_Research_Proposal.pdf)
+
 ## 📸 Application Preview
 
 ### 🔹 Dashboard
