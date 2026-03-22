@@ -1,5 +1,13 @@
 # 🦟 Malaria Prediction Dashboard (Benin)
 
+## 📄 Published Research
+
+This project is based on a published research proposal:
+
+👉 https://doi.org/10.5281/zenodo.19170416
+
+This publication demonstrates the application of machine learning in predicting malaria cases in Benin using climate data.
+
 ## 🌍 Live App
 
 👉 https://malaria-prediction-benin-fadil-ade.streamlit.app/
